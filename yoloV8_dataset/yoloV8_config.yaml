@@ -1,0 +1,8 @@
+path: '/content/drive/MyDrive/yoloV8_dataset'
+train: 'images/train'
+test: 'images/test'
+val: 'images/val'
+
+# Classes
+nc: 3
+names: ['ripe', 'unripe', 'overripe']
