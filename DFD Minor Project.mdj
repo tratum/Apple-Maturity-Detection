@@ -1,0 +1,1331 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true
+				}
+			]
+		},
+		{
+			"_type": "DFDDataFlowModel",
+			"_id": "AAAAAAGGU2ncStqdkjw=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "DataFlowModel1",
+			"ownedElements": [
+				{
+					"_type": "DFDDiagram",
+					"_id": "AAAAAAGGU2ncS9qe9Dg=",
+					"_parent": {
+						"$ref": "AAAAAAGGU2ncStqdkjw="
+					},
+					"name": "Minor Project DFDDiagram",
+					"ownedViews": [
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAGGU273ANqlBkc=",
+							"_parent": {
+								"$ref": "AAAAAAGGU2ncS9qe9Dg="
+							},
+							"model": {
+								"$ref": "AAAAAAGGU273ANqjvY8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHB+sS42Ej62Y=",
+									"_parent": {
+										"$ref": "AAAAAAGGU273ANqlBkc="
+									},
+									"font": "Arial;13;0",
+									"left": 282,
+									"top": 181,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGGVeDKbeO5WAg=",
+									"_parent": {
+										"$ref": "AAAAAAGGU273ANqlBkc="
+									},
+									"font": "Arial;13;0",
+									"left": 282,
+									"top": 181,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGGU273AdqrqOk=",
+									"_parent": {
+										"$ref": "AAAAAAGGU273ANqlBkc="
+									},
+									"font": "Arial;13;0",
+									"left": 282,
+									"top": 181,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGGU273ANqmH8Q=",
+									"_parent": {
+										"$ref": "AAAAAAGGU273ANqlBkc="
+									},
+									"font": "Arial;13;0",
+									"left": 282,
+									"top": 186,
+									"width": 87.4326171875,
+									"height": 13,
+									"text": "User/Device",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGGU273AdqnS00=",
+									"_parent": {
+										"$ref": "AAAAAAGGU273ANqlBkc="
+									},
+									"font": "Arial;13;0",
+									"left": 272,
+									"top": 176,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 272,
+							"top": 176,
+							"width": 107.4326171875,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAGGU273ANqmH8Q="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAGGU273ANqjvY8=",
+					"_parent": {
+						"$ref": "AAAAAAGGU2ncStqdkjw="
+					},
+					"name": "User/Device"
+				}
+			]
+		},
+		{
+			"_type": "ERDDataModel",
+			"_id": "AAAAAAGGVeEUaeO+lhE=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Data Model1",
+			"ownedElements": [
+				{
+					"_type": "ERDDiagram",
+					"_id": "AAAAAAGGVeEUaeO/kLQ=",
+					"_parent": {
+						"$ref": "AAAAAAGGVeEUaeO+lhE="
+					},
+					"name": "ERDDiagram1",
+					"ownedViews": [
+						{
+							"_type": "ERDEntityView",
+							"_id": "AAAAAAGGVeGTp+PFwqo=",
+							"_parent": {
+								"$ref": "AAAAAAGGVeEUaeO/kLQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGGVeGTp+PDpBk="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGGVeGTqOPGrcI=",
+									"_parent": {
+										"$ref": "AAAAAAGGVeGTp+PFwqo="
+									},
+									"font": "Arial;13;1",
+									"left": 344,
+									"top": 125,
+									"width": 148.67724609375,
+									"height": 13,
+									"text": "Capture Image of Fruit"
+								},
+								{
+									"_type": "ERDColumnCompartmentView",
+									"_id": "AAAAAAGGVeGTqOPH3A4=",
+									"_parent": {
+										"$ref": "AAAAAAGGVeGTp+PFwqo="
+									},
+									"model": {
+										"$ref": "AAAAAAGGVeGTp+PDpBk="
+									},
+									"font": "Arial;13;0",
+									"left": 344,
+									"top": 143,
+									"width": 148.67724609375,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 344,
+							"top": 120,
+							"width": 148.67724609375,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAGGVeGTqOPGrcI="
+							},
+							"columnCompartment": {
+								"$ref": "AAAAAAGGVeGTqOPH3A4="
+							}
+						},
+						{
+							"_type": "ERDEntityView",
+							"_id": "AAAAAAGGVeKuUePVzl8=",
+							"_parent": {
+								"$ref": "AAAAAAGGVeEUaeO/kLQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGGVeKuUOPTOIg="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGGVeKuUePWDSY=",
+									"_parent": {
+										"$ref": "AAAAAAGGVeKuUePVzl8="
+									},
+									"font": "Arial;13;1",
+									"left": 360,
+									"top": 205,
+									"width": 127.0634765625,
+									"height": 13,
+									"text": "Pre-Process Image"
+								},
+								{
+									"_type": "ERDColumnCompartmentView",
+									"_id": "AAAAAAGGVeKuUePXmCc=",
+									"_parent": {
+										"$ref": "AAAAAAGGVeKuUePVzl8="
+									},
+									"model": {
+										"$ref": "AAAAAAGGVeKuUOPTOIg="
+									},
+									"font": "Arial;13;0",
+									"left": 360,
+									"top": 223,
+									"width": 127.0634765625,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 360,
+							"top": 200,
+							"width": 127.0634765625,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAGGVeKuUePWDSY="
+							},
+							"columnCompartment": {
+								"$ref": "AAAAAAGGVeKuUePXmCc="
+							}
+						},
+						{
+							"_type": "ERDEntityView",
+							"_id": "AAAAAAGGVeMmeOQEsqk=",
+							"_parent": {
+								"$ref": "AAAAAAGGVeEUaeO/kLQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGGVeMmeOQCVYs="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGGVeMmeOQFhpU=",
+									"_parent": {
+										"$ref": "AAAAAAGGVeMmeOQEsqk="
+									},
+									"font": "Arial;13;1",
+									"left": 424,
+									"top": 141,
+									"width": 53.341796875,
+									"height": 13,
+									"text": "Entity1"
+								},
+								{
+									"_type": "ERDColumnCompartmentView",
+									"_id": "AAAAAAGGVeMmeOQGKbI=",
+									"_parent": {
+										"$ref": "AAAAAAGGVeMmeOQEsqk="
+									},
+									"model": {
+										"$ref": "AAAAAAGGVeMmeOQCVYs="
+									},
+									"font": "Arial;13;0",
+									"left": 424,
+									"top": 159,
+									"width": 53.341796875,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 424,
+							"top": 136,
+							"width": 53.341796875,
+							"height": 72,
+							"nameLabel": {
+								"$ref": "AAAAAAGGVeMmeOQFhpU="
+							},
+							"columnCompartment": {
+								"$ref": "AAAAAAGGVeMmeOQGKbI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "ERDEntity",
+					"_id": "AAAAAAGGVeGTp+PDpBk=",
+					"_parent": {
+						"$ref": "AAAAAAGGVeEUaeO+lhE="
+					},
+					"name": "Capture Image of Fruit"
+				},
+				{
+					"_type": "ERDEntity",
+					"_id": "AAAAAAGGVeKuUOPTOIg=",
+					"_parent": {
+						"$ref": "AAAAAAGGVeEUaeO+lhE="
+					},
+					"name": "Pre-Process Image"
+				},
+				{
+					"_type": "ERDEntity",
+					"_id": "AAAAAAGGVeMmeOQCVYs=",
+					"_parent": {
+						"$ref": "AAAAAAGGVeEUaeO+lhE="
+					},
+					"name": "Entity1"
+				}
+			]
+		},
+		{
+			"_type": "FCFlowchart",
+			"_id": "AAAAAAGHCAQFrmE9vvc=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Flowchart1",
+			"ownedElements": [
+				{
+					"_type": "FCFlowchartDiagram",
+					"_id": "AAAAAAGHCAQFr2E+d2U=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "FlowchartDiagram1",
+					"ownedViews": [
+						{
+							"_type": "FCDecisionView",
+							"_id": "AAAAAAGHCARru2FE9fQ=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCARru2FCwEg="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHCARru2FFD5M=",
+									"_parent": {
+										"$ref": "AAAAAAGHCARru2FE9fQ="
+									},
+									"font": "Arial;13;0",
+									"left": 348.542236328125,
+									"top": 103.5,
+									"width": 57.08447265625,
+									"height": 31,
+									"text": "Start",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 320,
+							"top": 88,
+							"width": 114.1689453125,
+							"height": 62,
+							"nameLabel": {
+								"$ref": "AAAAAAGHCARru2FFD5M="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHCAULLGFR//k=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCAULLGFPIXw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHCAULLWFSv3Q=",
+									"_parent": {
+										"$ref": "AAAAAAGHCAULLGFR//k="
+									},
+									"font": "Arial;13;0",
+									"left": 298,
+									"top": 202,
+									"width": 157,
+									"height": 13,
+									"text": "Literature Review ",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 288,
+							"top": 192,
+							"width": 177,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAGHCAULLWFSv3Q="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCAW9JGFyNug=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCAW9JGFwt08="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCAW9JGFzErg=",
+									"_parent": {
+										"$ref": "AAAAAAGHCAW9JGFyNug="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCAW9JGFwt08="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 390,
+									"top": 163,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCAW9JGFyNug="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCAULLGFR//k="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCARru2FE9fQ="
+							},
+							"lineStyle": 2,
+							"points": "376:149;376:192",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCAW9JGFzErg="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHCAYipGF7m4o=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCAYipGF5g3E="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHCAYipGF8Ejo=",
+									"_parent": {
+										"$ref": "AAAAAAGHCAYipGF7m4o="
+									},
+									"font": "Arial;13;0",
+									"left": 82,
+									"top": 298,
+									"width": 173,
+									"height": 39,
+									"text": "Data Acquisition and Pre-Processing of Apple Dataset",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 72,
+							"top": 288,
+							"width": 193,
+							"height": 59,
+							"nameLabel": {
+								"$ref": "AAAAAAGHCAYipGF8Ejo="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHCAby4WGIzSw=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCAby4GGGm0k="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHCAby4WGJdHI=",
+									"_parent": {
+										"$ref": "AAAAAAGHCAby4WGIzSw="
+									},
+									"font": "Arial;13;0",
+									"left": 546,
+									"top": 306,
+									"width": 176.99169921875,
+									"height": 26,
+									"text": "Identification of available Deep CNN Model",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 536,
+							"top": 296,
+							"width": 196.99169921875,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAGHCAby4WGJdHI="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCAgemWGaF94=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCAgemWGYnio="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCAgemmGb7uI=",
+									"_parent": {
+										"$ref": "AAAAAAGHCAgemWGaF94="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCAgemWGYnio="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 174,
+									"top": 193,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCAgemWGaF94="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCAYipGF7m4o="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCAULLGFR//k="
+							},
+							"lineStyle": 2,
+							"points": "288:200;160:200;160:288",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCAgemmGb7uI="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCAgvBWGjJlQ=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCAgvBWGhrSY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCAgvBWGkSwk=",
+									"_parent": {
+										"$ref": "AAAAAAGHCAgvBWGjJlQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCAgvBWGhrSY="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 639,
+									"top": 193,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCAgvBWGjJlQ="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCAby4WGIzSw="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCAULLGFR//k="
+							},
+							"lineStyle": 2,
+							"points": "464:200;624:200;624:296",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCAgvBWGkSwk="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHCAvd+2G34gA=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCAvd+mG1biE="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHCAvd+2G4nC8=",
+									"_parent": {
+										"$ref": "AAAAAAGHCAvd+2G34gA="
+									},
+									"font": "Arial;13;0",
+									"left": 298,
+									"top": 418,
+									"width": 197,
+									"height": 26,
+									"text": "Development of Deep CNN Model",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 288,
+							"top": 408,
+							"width": 217,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAGHCAvd+2G4nC8="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCAxvZmHEprI=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCAxvZmHC4Ho="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCAxvZ2HFkc0=",
+									"_parent": {
+										"$ref": "AAAAAAGHCAxvZmHEprI="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCAxvZmHC4Ho="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 313,
+									"top": 355,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCAxvZmHEprI="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCAvd+2G34gA="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCAYipGF7m4o="
+							},
+							"lineStyle": 2,
+							"points": "227:346;227:376;400:376;400:408",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCAxvZ2HFkc0="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCAx+aWHNh0I=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCAx+aWHLTEM="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCAx+aWHOAmE=",
+									"_parent": {
+										"$ref": "AAAAAAGHCAx+aWHNh0I="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCAx+aWHLTEM="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 491,
+									"top": 385,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCAx+aWHNh0I="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCAvd+2G34gA="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCAby4WGIzSw="
+							},
+							"lineStyle": 2,
+							"points": "584:341;584:376;400:376;400:408",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCAx+aWHOAmE="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHCA0ddmHcGA0=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCA0ddmHajB4="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHCA0ddmHdRZM=",
+									"_parent": {
+										"$ref": "AAAAAAGHCA0ddmHcGA0="
+									},
+									"font": "Arial;13;0",
+									"left": 298,
+									"top": 522,
+									"width": 205,
+									"height": 13,
+									"text": "Optimization using YOLOv8 Model",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 288,
+							"top": 512,
+							"width": 225,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAGHCA0ddmHdRZM="
+							}
+						},
+						{
+							"_type": "FCDecisionView",
+							"_id": "AAAAAAGHCA8/wGHzdrE=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCA8/wGHxuf0="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHCA8/wWH03DA=",
+									"_parent": {
+										"$ref": "AAAAAAGHCA8/wGHzdrE="
+									},
+									"font": "Arial;13;0",
+									"left": 338.25,
+									"top": 690.25,
+									"width": 132.5,
+									"height": 68.5,
+									"text": "90% and above classification accuracy of apple images",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 272,
+							"top": 656,
+							"width": 265,
+							"height": 137,
+							"nameLabel": {
+								"$ref": "AAAAAAGHCA8/wWH03DA="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCBEDn2INXFY=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCBEDnWILYLI="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCBEDn2IOMaM=",
+									"_parent": {
+										"$ref": "AAAAAAGHCBEDn2INXFY="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCBEDnWILYLI="
+									},
+									"font": "Arial;13;0",
+									"left": 404,
+									"top": 599,
+									"width": 21.20751953125,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCBEDn2INXFY="
+									},
+									"edgePosition": 1,
+									"text": "Yes"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCA8/wGHzdrE="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCA0ddmHcGA0="
+							},
+							"lineStyle": 2,
+							"points": "400:557;400:656",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCBEDn2IOMaM="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCBKLnmI/23g=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCBKLnmI93gA="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCBKLnmJAFkE=",
+									"_parent": {
+										"$ref": "AAAAAAGHCBKLnmI/23g="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCBKLnmI93gA="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 411,
+									"top": 475,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCBKLnmI/23g="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCA0ddmHcGA0="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCAvd+2G34gA="
+							},
+							"lineStyle": 2,
+							"points": "397:453;397:512",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCBKLnmJAFkE="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCBKh4mJIOEg=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCBKh4WJGxxo="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCBKh4mJJRxQ=",
+									"_parent": {
+										"$ref": "AAAAAAGHCBKh4mJIOEg="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCBKh4WJGxxo="
+									},
+									"font": "Arial;13;0",
+									"left": 609,
+									"top": 629,
+									"width": 16.6181640625,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCBKh4mJIOEg="
+									},
+									"edgePosition": 1,
+									"text": "No"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCA0ddmHcGA0="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCA8/wGHzdrE="
+							},
+							"points": "536:728;632:728;632:544;512:544",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCBKh4mJJRxQ="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHCBQfRWJnh2U=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCBQfRGJlwWE="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHCBQfRWJonsk=",
+									"_parent": {
+										"$ref": "AAAAAAGHCBQfRWJnh2U="
+									},
+									"font": "Arial;13;0",
+									"left": 306,
+									"top": 882,
+									"width": 213,
+									"height": 39,
+									"text": "Suggestion of Suitable Deep CNN Model and optimization technique to classify apple images",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 296,
+							"top": 872,
+							"width": 233,
+							"height": 65,
+							"nameLabel": {
+								"$ref": "AAAAAAGHCBQfRWJonsk="
+							}
+						},
+						{
+							"_type": "FCTerminatorView",
+							"_id": "AAAAAAGHCBXm1mKBmPE=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCBXm1mJ/7Jo="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHCBXm1mKCxiY=",
+									"_parent": {
+										"$ref": "AAAAAAGHCBXm1mKBmPE="
+									},
+									"font": "Arial;13;0",
+									"left": 378,
+									"top": 1034,
+									"width": 68.63720703125,
+									"height": 13,
+									"text": "End",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 368,
+							"top": 1024,
+							"width": 88.63720703125,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAGHCBXm1mKCxiY="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCBYVQ2KLhX4=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCBYVQ2KJxhQ="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCBYVQ2KMGXA=",
+									"_parent": {
+										"$ref": "AAAAAAGHCBYVQ2KLhX4="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCBYVQ2KJxhQ="
+									},
+									"font": "Arial;13;0",
+									"left": 411,
+									"top": 825,
+									"width": 21.20751953125,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCBYVQ2KLhX4="
+									},
+									"edgePosition": 1,
+									"text": "Yes"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCBQfRWJnh2U="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCA8/wGHzdrE="
+							},
+							"lineStyle": 2,
+							"points": "407:792;407:872",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCBYVQ2KMGXA="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHCBZFK2KVWn0=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAQFr2E+d2U="
+							},
+							"model": {
+								"$ref": "AAAAAAGHCBZFKmKTqO8="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHCBZFK2KWyDQ=",
+									"_parent": {
+										"$ref": "AAAAAAGHCBZFK2KVWn0="
+									},
+									"model": {
+										"$ref": "AAAAAAGHCBZFKmKTqO8="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 428,
+									"top": 973,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHCBZFK2KVWn0="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHCBXm1mKBmPE="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHCBQfRWJnh2U="
+							},
+							"lineStyle": 2,
+							"points": "414:936;414:1024",
+							"nameLabel": {
+								"$ref": "AAAAAAGHCBZFK2KWyDQ="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCDecision",
+					"_id": "AAAAAAGHCARru2FCwEg=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "Start",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCAW9JGFwt08=",
+							"_parent": {
+								"$ref": "AAAAAAGHCARru2FCwEg="
+							},
+							"source": {
+								"$ref": "AAAAAAGHCARru2FCwEg="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCAULLGFPIXw="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGHCAULLGFPIXw=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "Literature Review ",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCAgemWGYnio=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAULLGFPIXw="
+							},
+							"source": {
+								"$ref": "AAAAAAGHCAULLGFPIXw="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCAYipGF5g3E="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCAgvBWGhrSY=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAULLGFPIXw="
+							},
+							"source": {
+								"$ref": "AAAAAAGHCAULLGFPIXw="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCAby4GGGm0k="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGHCAYipGF5g3E=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "Data Acquisition and Pre-Processing of Apple Dataset",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCAxvZmHC4Ho=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAYipGF5g3E="
+							},
+							"source": {
+								"$ref": "AAAAAAGHCAYipGF5g3E="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCAvd+mG1biE="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGHCAby4GGGm0k=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "Identification of available Deep CNN Model",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCAx+aWHLTEM=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAby4GGGm0k="
+							},
+							"source": {
+								"$ref": "AAAAAAGHCAby4GGGm0k="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCAvd+mG1biE="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGHCAvd+mG1biE=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "Development of Deep CNN Model",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCBKLnmI93gA=",
+							"_parent": {
+								"$ref": "AAAAAAGHCAvd+mG1biE="
+							},
+							"source": {
+								"$ref": "AAAAAAGHCAvd+mG1biE="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCA0ddmHajB4="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGHCA0ddmHajB4=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "Optimization using YOLOv8 Model",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCBEDnWILYLI=",
+							"_parent": {
+								"$ref": "AAAAAAGHCA0ddmHajB4="
+							},
+							"name": "Yes",
+							"source": {
+								"$ref": "AAAAAAGHCA0ddmHajB4="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCA8/wGHxuf0="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCDecision",
+					"_id": "AAAAAAGHCA8/wGHxuf0=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "90% and above classification accuracy of apple images",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCBKh4WJGxxo=",
+							"_parent": {
+								"$ref": "AAAAAAGHCA8/wGHxuf0="
+							},
+							"name": "No",
+							"source": {
+								"$ref": "AAAAAAGHCA8/wGHxuf0="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCA0ddmHajB4="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCBYVQ2KJxhQ=",
+							"_parent": {
+								"$ref": "AAAAAAGHCA8/wGHxuf0="
+							},
+							"name": "Yes",
+							"source": {
+								"$ref": "AAAAAAGHCA8/wGHxuf0="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCBQfRGJlwWE="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGHCBQfRGJlwWE=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "Suggestion of Suitable Deep CNN Model and optimization technique to classify apple images",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHCBZFKmKTqO8=",
+							"_parent": {
+								"$ref": "AAAAAAGHCBQfRGJlwWE="
+							},
+							"source": {
+								"$ref": "AAAAAAGHCBQfRGJlwWE="
+							},
+							"target": {
+								"$ref": "AAAAAAGHCBXm1mJ/7Jo="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCTerminator",
+					"_id": "AAAAAAGHCBXm1mJ/7Jo=",
+					"_parent": {
+						"$ref": "AAAAAAGHCAQFrmE9vvc="
+					},
+					"name": "End"
+				}
+			]
+		}
+	]
+}

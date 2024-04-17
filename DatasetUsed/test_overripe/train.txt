@@ -1,0 +1,50 @@
+data/obj_train_data/Screenshot 2023-04-18 110224.png
+data/obj_train_data/Screenshot 2023-04-18 110243.png
+data/obj_train_data/Screenshot 2023-04-18 110308.png
+data/obj_train_data/Screenshot 2023-04-18 110340.png
+data/obj_train_data/Screenshot 2023-04-18 110417.png
+data/obj_train_data/Screenshot 2023-04-18 110437.png
+data/obj_train_data/Screenshot 2023-04-18 110500.png
+data/obj_train_data/Screenshot 2023-04-18 110521.png
+data/obj_train_data/Screenshot 2023-04-18 110532.png
+data/obj_train_data/Screenshot 2023-04-18 110553.png
+data/obj_train_data/Screenshot 2023-04-18 110806.png
+data/obj_train_data/apple-25398543.jpg
+data/obj_train_data/apple-affected-fungus-mold-disease-scab-lousy-rotten-apple-apple-affected-fungus-mold-disease-scab-lousy-rotten-158543973.jpg
+data/obj_train_data/apple-affected-fungus-mold-disease-scab-lousy-rotten-apple-crop-apples-ruined-diseases-fruit-trees-apple-158761139.jpg
+data/obj_train_data/apple-affected-fungus-mold-disease-scab-lousy-rotten-apple-crop-apples-ruined-diseases-fruit-trees-apple-158761183.jpg
+data/obj_train_data/apple-affected-fungus-mold-disease-scab-lousy-rotten-crop-apples-ruined-diseases-fruit-trees-158761220.jpg
+data/obj_train_data/apple-rot-white-apple-rot-white-126190415.jpg
+data/obj_train_data/bad-bank-concept-conceptual-image-focusing-pig-rotten-apple-several-monetary-ideas-174976052.jpg
+data/obj_train_data/close-up-some-rotten-apples-rotten-apples-close-up-183716681.jpg
+data/obj_train_data/crop-apples-ruined-diseases-fruit-trees-apple-affected-fungus-mold-disease-scab-lousy-rotten-158761261.jpg
+data/obj_train_data/crop-apples-ruined-diseases-fruit-trees-apple-affected-fungus-mold-disease-scab-lousy-rotten-158761265.jpg
+data/obj_train_data/gettyimages-1322842506-612x612.jpg
+data/obj_train_data/gettyimages-1322842509-612x612.jpg
+data/obj_train_data/isolated-over-white-image-one-bad-apple-174976407.jpg
+data/obj_train_data/one-bad-apple-isolated-shot-being-cut-knife-174976332.jpg
+data/obj_train_data/one-rotten-apple-bunch-four-21755272.jpg
+data/obj_train_data/rotten-apple-23807950.jpg
+data/obj_train_data/rotten-apple-fruit-decaying-spoiled-fall-red-green-99544854.jpg
+data/obj_train_data/rotten-apple-funny-face-red-plate-decaying-weird-53531476.jpg
+data/obj_train_data/rotten-apple-mold-grass-tree-malus-domestica-deciduous-tree-rose-family-best-known-its-sweet-pomaceous-48536073.jpg
+data/obj_train_data/rotten-apple-mold-tree-malus-domestica-deciduous-tree-rose-family-best-known-its-sweet-pomaceous-fruit-48536204.jpg
+data/obj_train_data/rotten-apple-overripe-decaying-dramatic-light-42115335 (1).jpg
+data/obj_train_data/rotten-apple-overripe-decaying-dramatic-light-42115335.jpg
+data/obj_train_data/rotten-apples-close-up-some-76277572.jpg
+data/obj_train_data/rotten-ugly-apples-close-up-spoiled-fruit-wicker-basket-fresh-organic-rotten-ugly-apples-close-up-spoiled-fruit-c-162689987.jpg
+data/obj_train_data/selective-focus-rotten-red-apple-grass-sunny-autumn-day-close-up-image-decaying-front-view-blurred-background-160661112.jpg
+data/obj_train_data/selective-focus-rotten-red-apple-grass-sunny-autumn-day-close-up-image-decaying-front-view-blurred-background-copy-160661061.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apple-dark-wooden-background-close-up-246727921.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apple-dark-wooden-background-close-up-spoiled-shriveled-rotten-apple-246727938.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apple-dark-wooden-background-close-up-spoiled-shriveled-rotten-apple-246727942.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apple-dark-wooden-background-close-up-spoiled-shriveled-rotten-apple-246727963.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apple-dark-wooden-background-close-up-spoiled-shriveled-rotten-apple-246727971.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apple-spoiled-shriveled-rotten-apple-dark-wooden-background-close-up-246727931.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apple-spoiled-shriveled-rotten-apple-dark-wooden-background-close-up-246727957.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apple-spoiled-shriveled-rotten-apple-dark-wooden-background-close-up-246727969.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apples-spoiled-shriveled-rotten-apples-dark-wooden-background-close-up-246727947.jpg
+data/obj_train_data/spoiled-shriveled-rotten-apples-spoiled-shriveled-rotten-apples-dark-wooden-background-close-up-246727952.jpg
+data/obj_train_data/ugly-apples-wicker-basket-wooden-brown-background-close-up-ugly-apples-wicker-basket-wooden-brown-background-162690911.jpg
+data/obj_train_data/wicker-basket-fresh-organic-ugly-apples-wooden-background-close-up-wicker-basket-fresh-organic-ugly-apples-162690368.jpg
+data/obj_train_data/wrincled-old-age-apple-wrinkled-old-apple-isolated-white-background-104181204.jpg

@@ -1,0 +1,50 @@
+data/obj_train_data/6-1-rs.jpg
+data/obj_train_data/6-2-rs.jpg
+data/obj_train_data/6-3-rs.jpg
+data/obj_train_data/6-4-rs.jpg
+data/obj_train_data/7-1-rs.jpg
+data/obj_train_data/7-2-rs.jpg
+data/obj_train_data/7-3-rs.jpg
+data/obj_train_data/7-4-rs.jpg
+data/obj_train_data/OIP (1).jpeg
+data/obj_train_data/OIP (2).jpeg
+data/obj_train_data/OIP (3).jpeg
+data/obj_train_data/OIP (4).jpeg
+data/obj_train_data/OIP (5).jpeg
+data/obj_train_data/OIP (6).jpeg
+data/obj_train_data/OIP.jpeg
+data/obj_train_data/download (1).jpeg
+data/obj_train_data/download.jpeg
+data/obj_train_data/gettyimages-1006837808-612x612.jpg
+data/obj_train_data/gettyimages-110883102-612x612.jpg
+data/obj_train_data/gettyimages-1214891601-612x612.jpg
+data/obj_train_data/gettyimages-1215281691-612x612.jpg
+data/obj_train_data/gettyimages-1216386198-612x612 (1).jpg
+data/obj_train_data/gettyimages-1216386198-612x612.jpg
+data/obj_train_data/gettyimages-1222636311-612x612.jpg
+data/obj_train_data/gettyimages-1224405450-612x612.jpg
+data/obj_train_data/gettyimages-1337465303-612x612.jpg
+data/obj_train_data/gettyimages-1337465328-612x612.jpg
+data/obj_train_data/gettyimages-1359646472-612x612.jpg
+data/obj_train_data/gettyimages-1378696738-612x612.jpg
+data/obj_train_data/gettyimages-1388129843-612x612.jpg
+data/obj_train_data/gettyimages-1393528679-612x612.jpg
+data/obj_train_data/gettyimages-1427909114-612x612.jpg
+data/obj_train_data/gettyimages-162759279-612x612.jpg
+data/obj_train_data/gettyimages-559490367-612x612.jpg
+data/obj_train_data/gettyimages-588289712-612x612 (1).jpg
+data/obj_train_data/gettyimages-588289712-612x612.jpg
+data/obj_train_data/gettyimages-588300486-612x612 (1).jpg
+data/obj_train_data/gettyimages-588300486-612x612 (2).jpg
+data/obj_train_data/gettyimages-588300486-612x612.jpg
+data/obj_train_data/gettyimages-606393255-612x612 (1).jpg
+data/obj_train_data/gettyimages-606393255-612x612.jpg
+data/obj_train_data/gettyimages-936525020-612x612 (1).jpg
+data/obj_train_data/gettyimages-936525020-612x612.jpg
+data/obj_train_data/gettyimages-989396594-612x612.jpg
+data/obj_train_data/pexels-andres-ayrton-6551090.jpg
+data/obj_train_data/pexels-photo-616833.jpeg
+data/obj_train_data/pexels-photo-8655520.jpeg
+data/obj_train_data/pexels-pixabay-533343.jpg
+data/obj_train_data/pexels-polina-tankilevitch-4187483.jpg
+data/obj_train_data/pexels-sarah-chai-7263013.jpg

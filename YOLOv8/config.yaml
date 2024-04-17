@@ -1,0 +1,7 @@
+path: C:/Coding/yoloV8_dataset/data
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names: ['ripe', 'unripe', 'overripe']
