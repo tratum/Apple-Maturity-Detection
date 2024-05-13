@@ -1,4 +1,4 @@
-# Apple Maturity Detection
+# Apple Vision
 
 In recent years, there has been a growing interest in using deep learning methods for Apple maturity detection. The main advantage of using these methods is their ability to learn and detect complex patterns in images, making them highly effective at distinguishing between different ripeness levels of apples. One such deep learning approach is YOLOv8, an object detection algorithm that uses a single neural network to detect objects in real time.
 The process of apple maturity detection using CNN and YOLOv8 involves collecting a large dataset of images of apples at different stages of ripeness, with labels indicating their maturity level. The dataset is then pre-processed, including image resizing, normalization, and augmentation. The CNN and YOLOv8 models are then trained on the pre-processed dataset, and their accuracy is evaluated using validation and testing datasets.
